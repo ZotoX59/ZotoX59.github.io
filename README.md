@@ -1,2 +1,2 @@
-# ZotoX59.github.io
+# zotox59.github.io
 The Prototype of Cube S 
